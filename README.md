@@ -15,3 +15,4 @@ Outro serviço foi adicionado, realizando os mesmos passos anteriores. No entant
 é executada por meio de um script python, que teve seu interpretador inicializado no início do
 script. O serviço também fazia um led piscar mas dessa vez com um período de 1s.
 A montagem em protoboard com os dois leds, um para cada tarefa, pode ser vista na imagem a seguir.
+![montagem](https://github.com/user-attachments/assets/80696cf8-288d-4e55-9417-ce7a68fa827a)
