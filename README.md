@@ -1,6 +1,10 @@
 # SEL337 - Prática 5
 ## Serviços de inicialização e uso do git para controle de versão
 
+Alunos:
+Allan Victor Santos - 12625458
+Matheus Augusto Tavares de Freitas - 10696764
+
 Neste procedimento prático foi criada uma tarefa que realiza o controle de um LED
 fazendo-o piscar com um período de 0.4s usando linguagem bash. Foi criado um arquivo
 .service  que configura esse serviço para poder ser inicializado juntamente com a
